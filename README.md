@@ -20,7 +20,7 @@
    - [Jinja & Macros](#jinja--macros)
    - [Hooks & Operations](#hooks--operations)
 6. [Essential dbt CLI Commands & Graph Selectors](#6-essential-dbt-cli-commands--graph-selectors)
-7. [Top 20 dbt Interview Questions & Expert Answers](#7-top-20-dbt-interview-questions--expert-answers)
+
 
 ---
 
