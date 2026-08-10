@@ -4,6 +4,9 @@
 > *Covering Architecture, Directory Structure, File Explanations, Core Mechanics, Materializations, Jinja Macros, CLI Commands, Node Selection Syntax, and Top Interview Questions.*
 
 ---
+## Workflow
+<img src="transaction-project-wf.png" width="900">
+
 
 ## 📌 Table of Contents
 1. [What is dbt & Why Do We Use It?](#1-what-is-dbt--why-do-we-use-it)
