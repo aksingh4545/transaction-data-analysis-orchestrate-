@@ -1,0 +1,17 @@
+# Airflow & dbt logs/targets
+logs/
+*.log
+dbt/banking_dbt/logs/
+dbt/banking_dbt/target/
+dbt/banking_dbt/.user.yml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments & OS
+env/
+.env
+.DS_Store
+Thumbs.db

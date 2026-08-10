@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: fct_transactions_powerbi
+    description: Curated transaction fact table for Power BI reporting.
+    columns:
+      - name: transaction_id
+        tests:
+          - not_null
+          - unique
+      - name: transaction_date
+        tests:
+          - not_null
+      - name: transaction_amount
+        tests:
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+      - name: card_id
+        tests:
+          - not_null
+      - name: merchant_id
+        tests:
+          - not_null
+      - name: fraud_flag
+        tests:
+          - not_null
